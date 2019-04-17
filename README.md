@@ -37,7 +37,7 @@ android {
 }
 ```
 
-Step 4. (Optional) When you wants to debug your app in Android Oreo you shoud add the blow code to your build.gradle. Pls ref to https://issuetracker.google.com/issues/65941637 for more info.
+Step 4. (Optional) When you wants to debug your app in Android Oreo you should add the below code to your build.gradle. Pls ref to https://issuetracker.google.com/issues/65941637 for more info.
 ```
 android {
     ……
